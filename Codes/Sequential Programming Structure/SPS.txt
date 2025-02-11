@@ -1,0 +1,1 @@
+La Estructura de Programación Secuencial es aquella donde las instrucciones se ejecutan en el orden preescrito, sin bucles o saltos.

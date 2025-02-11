@@ -1,0 +1,5 @@
+Las estructuras condicionales anidadas se usan para poner más de una condición
+
+|| or
+
+&& and

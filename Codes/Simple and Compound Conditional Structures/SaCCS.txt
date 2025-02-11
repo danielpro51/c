@@ -1,0 +1,12 @@
+Las estructuras simples y compuestas se usan cuando hay varias opciones a elegir.
+
+> mayor
+< menor
+>= mayor igual
+== igual
+!= distinto
++
+-
+*
+/
+% resto de una división
