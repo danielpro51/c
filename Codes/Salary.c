@@ -11,6 +11,7 @@ int main(){
     //%f puede leer números decimales o float(flotantes)
     //%c puede leer un solo caracter
     //%s puede leer una cadena de caracteres
+    //%lf puede leer doubles
     printf("Ingrese el costo por horas: ");
     scanf("%i", &CostoXhora);
 
